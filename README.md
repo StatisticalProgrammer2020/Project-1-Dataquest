@@ -1,5 +1,14 @@
 # Project-1-Dataquest
-This is my first guided project using Dataquest which uses COVID data in order to analyze COVID trends worldwide. This project makes use of data structures in R in order to determine which countries have had the highest number of postiive cases against the number of conducted tests.
+This is my first guided project using Dataquest which uses COVID data in order to analyze COVID trends worldwide. This project makes use of data structures in R in order to determine which countries have had the highest number of postiive cases against the number of conducted tests. The following concepts were applied in order to answer the given problem:
++ vectors
++ lists
++ dataframes
++ matrices
+
+# Data source
+The source of the data can be found here: https://www.kaggle.com/lin0li/covid19testing
+
+The dataset to be used contains 10,903 rows and 14 columns.
 
 # Variables
 - Date: date of data collection
