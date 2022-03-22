@@ -1,4 +1,4 @@
-# Project-1-Dataquest
+# DQ R-Project 1: Analyzing COVID Trends Worldwide
 This is my first guided project using Dataquest which uses COVID data in order to analyze COVID trends worldwide. This project makes use of data structures in R in order to determine which countries have had the highest number of postiive cases against the number of conducted tests. The following concepts were applied in order to answer the given problem:
 + vectors
 + lists
