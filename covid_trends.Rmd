@@ -1,7 +1,6 @@
 ---
 title: "Investigating COVID-19 Virus Trends"
 author: "Abe Ceasar Perez"
-date: "March 13, 2022"
 output: html_document
 ---
 <br>
@@ -9,10 +8,13 @@ output: html_document
 ### Understanding the Impact of COVID-19 around the Globe
 
 This project aims to identify which countries have had the highest number of positive cases against the number of tests. We will be working for an unnamed health organization to determine which areas around the globe have been badly hit by the COVID-19 virus, an airborne virus which originated from Wuhan, China.
-<br>
-<br>
-For this project, we will be using basic concepts regarding data structures such as vectors, lists, dataframes, and matrices in order to achieve the objective above.
-<br>
+
+For this project, the following concepts were applied in order to accomplish the objectives above:
+
++ Vectors
++ Lists
++ Dataframes
++ Matrices
 
 ### Initial Findings
 
